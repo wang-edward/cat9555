@@ -1,0 +1,1 @@
+/usr/bin/c++  -g  -rdynamic CMakeFiles/app.dir/CAT9555.cpp.o CMakeFiles/app.dir/main.cpp.o  -o app -Wl,-rpath,/usr/local/lib /usr/local/lib/libmraa.so 
